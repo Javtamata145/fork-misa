@@ -16,18 +16,18 @@
 
 ### 1. ¿Qué es la ingeniería de software?
 
-_Escribe aquí la respuesta del equipo..._
+Enfoque disciplinado, sistematico y cuantificable del desarrollo
 
 ---
 
 ### 2. ¿Qué son las soft skills?
 
-_Escribe aquí la respuesta del equipo..._
+es el enfoque a la comunicación participativa entre los grupos de trabajo para una colaboración activa
 
 ---
 
 ### 3. ¿Cómo puedes implementar la IA en tu carrera sin perder el protagonismo?
 
-_Escribe aquí la respuesta del equipo..._
+Usar la IA como herramienta y no como fin, utilizarla para complementar tareas o que realice la parte monotona y dejar la parte de ingenio y trabajo proactivo para las personas
 
 ---
