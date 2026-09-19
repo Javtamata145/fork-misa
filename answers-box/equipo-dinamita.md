@@ -15,19 +15,19 @@
 ## Preguntas del equipo
 
 ### 1. ¿Qué es la ingeniería de software?
-
+*Responde: El enfoque sistemático, disciplinado y cuantificable del desarrollo del software
 _Escribe aquí la respuesta del equipo..._
 
 ---
 
 ### 2. ¿Qué son las soft skills?
-
+*Responde: Son las habilidades sociales para el trabajo en equipo.
 _Escribe aquí la respuesta del equipo..._
 
 ---
 
 ### 3. ¿Cómo puedes implementar la IA en tu carrera sin perder el protagonismo?
-
+*Responde: Usando agentes IA.
 _Escribe aquí la respuesta del equipo..._
 
 ---
